@@ -1,0 +1,43 @@
+.desc{
+    margin-top: 120px;
+    margin-bottom: 60px;
+}
+
+.btnProcurar {
+    border: 1px solid mediumturquoise;
+    background-color: white;
+    color: mediumturquoise;
+    padding: 15px 10px;
+}
+
+.btnProcurar:hover{ 
+   background-color: #219ebc;
+   color: white;
+   transition: 0.4s ease;
+}
+.arrastar{
+    border-style: dashed;
+    color: darkgrey;
+    background-color: white;
+    width: 300px;
+    height: 120px;
+
+}
+
+.arrastar svg{
+    width: 30px;
+    height: 30px;
+}
+
+textarea{
+    min-height: 100px;
+}
+
+.btn-custom{
+    color: white;
+    background-color: #219ebc;
+}
+
+.btn-custom:hover{
+    background-color: #0e7b96;
+}

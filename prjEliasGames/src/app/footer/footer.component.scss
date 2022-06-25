@@ -1,0 +1,52 @@
+footer{
+  background-color: #eaf2fd;  
+}
+
+.logo{
+    color: #575757;
+    font-size: 1.2rem;
+    font-weight: bold;
+
+}
+
+.logo svg{
+
+    width: 35px;
+    height: 35px;
+    color: blue;
+}
+
+.logo span{
+    color: blue;
+    margin: 5px;
+}
+
+footer li{
+    list-style: none;
+    margin: 15px;   
+}
+
+footer a {
+    text-decoration: none;
+    color: #555;
+}
+
+ footer a:hover{
+    color: #000
+}
+
+textarea{
+    height: 90px !important;
+}
+
+.btnFooter {
+   background-color: #219ebc;
+   color: white;
+   border: 1px solid mediumturquoise;
+   padding: 10px 15px;
+   transition: 0.3s;
+}
+
+.btnFooter:hover{
+    background-color: #4bd9d7;
+}

@@ -1,0 +1,42 @@
+.logo{
+    color: #575757;
+    font-size: 2rem;
+    font-weight: bold;
+
+}
+
+.logo svg{
+
+    width: 50px;
+    height: 50px;
+    color: blue;
+}
+
+.logo span{
+    color: blue;
+    margin: 5px;
+}
+.search input{
+   background-color: whitesmoke;
+  padding: 5px 15px;
+  width: 350px;
+}
+
+.search svg {
+
+    margin-top: -4px;
+    margin-left: -30px;
+}
+
+.btnlogin {
+    border: 1px solid mediumturquoise;
+    background-color: white;
+    color: mediumturquoise;
+    padding: 15px 69px;
+}
+
+.btnlogin:hover{
+   background-color: #219ebc;
+   color: white;
+   transition: 0.4s ease;
+}

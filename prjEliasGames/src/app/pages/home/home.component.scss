@@ -1,0 +1,35 @@
+.hero{
+    padding-top: 120px;
+    padding-bottom: 20px;
+}
+
+.bg-hero{
+    background: url(https://images.unsplash.com/photo-1555680202-c86f0e12f086?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80)
+    center no-repeat
+    #0003;
+    background-size: cover;
+    background-blend-mode: overlay;
+}
+
+.ver-tudo{
+    text-decoration: none;
+    font-weight:800;
+    color: #219ebc
+}
+
+.ver-tudo svg{
+    margin-top: -3px;
+    margin-left: 5px;
+}
+
+.btn-footer {
+    background-color: #219ebc;
+    color: white;
+    border: 1px solid mediumturquoise;
+    padding: 10px 15px;
+    transition: 0.3s;
+ }
+ 
+ .btn-footer:hover{
+     background-color: #4bd9d7;
+ }
